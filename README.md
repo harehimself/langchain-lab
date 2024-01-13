@@ -10,30 +10,34 @@ The Langchain Lab is dedicated to exploring innovative applications of Langchain
 
 To begin experimenting with Langchain Lab, follow these steps:
 
-1. **Clone the Repository**:
+**Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/langchain-lab.git
 
-Set Up Your Environment:
+**Set Up Your Environment**:
 Ensure you have Python installed. We recommend using a virtual environment for better isolation.
 
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-Install Dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-pip install -r requirements.txt
-Explore the Projects:
+**Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+**Explore the Projects**:
 Dive into the various directories to discover different experiments and projects.
 
-Contributing
+**Contributing**
 We encourage contributions! If you have a project idea, an experiment, or improvements to suggest, please follow these guidelines:
 
 Fork the repository.
 Create a new branch for your feature or fix.
 Implement your changes.
 Submit a pull request with a detailed description of your work.
-Code of Conduct
+
+## Code of Conduct
 This project adheres to a Code of Conduct. By participating, you are expected to uphold this code.
 
-License
+## License
 This project is licensed under the [LICENSE NAME] License - see the LICENSE.md file for details.
