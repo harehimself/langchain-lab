@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/hare_nextjs-webflow/master/Hare_Nextjs-Webflow-Starter.png" alt="Hare Next.js and Webflow Starter">
+   <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/Hare_Langchain-Lab.png">
 </p>
 
 <p align="center">
