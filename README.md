@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/Hare_Langchain-Lab.png">
+   <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/langchain-lab.png">
 </p>
 
 <p align="center">
