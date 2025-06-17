@@ -1,4 +1,36 @@
 <p align="center">
+   <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/langchain-lab.png">
+</p>
+
+<p align="center">
+   A modular environment for testing LangChain agents, tools, and chains. Demonstrates memory, prompt templates, and multi-tool workflows. Integrates OpenAI and local vector stores. Ideal for building early prototypes of autonomous agents. Codebase is clean, minimal, and extensible. Perfect for learning or deploying LangChain-based logic.
+</p>
+<br>
+
+<p align="center">
+  <a href="https://github.com/harehimself/langchain-lab/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/langchain-lab" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/langchain-lab/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/langchain-lab" alt="Forks"></a>
+  <a href="https://github.com/harehimself/langchain-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/langchain-lab" alt="Stars"></a>
+  <a href="https://github.com/harehimself/langchain-lab/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/langchain-lab" alt="Issues"></a>
+  <a href="https://github.com/harehimself/langchain-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/langchain-lab" alt="MIT License"></a>
+</p>
+
+<br><br>
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-1)
+- [Features](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
+- [License](#license)
+
+<p align="center">
    <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/Hare_Langchain-Lab.png">
 </p>
 
@@ -24,11 +56,11 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-1)
 - [Features](#features)
-- [Benefits](#features)
-- [How It Compares](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
 - [License](#license)
-<br>
 
 ## Features
 - Comprehensive API support for various language models.
