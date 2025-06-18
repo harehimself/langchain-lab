@@ -24,43 +24,11 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Table of Contents](#table-of-contents-1)
 - [Features](#features)
 - [Benefits](#benefits)
 - [How It Compares](#how-it-compares)
 - [License](#license)
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/langchain-lab/master/Hare_Langchain-Lab.png">
-</p>
-
-<p align="center">
-   LangChain is an innovative platform designed to streamline the integration and utilization of language models in various applications. It provides developers with tools and APIs to easily embed advanced natural language processing capabilities into their software.
-</p>
-<br>
-
-<p align="center">
-  <a href="https://github.com/harehimself/langchain-lab/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/harehimself/langchain-lab" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/langchain-lab/network/members">
-    <img src="https://img.shields.io/github/forks/harehimself/langchain-lab" alt="Forks"></a>
-  <a href="https://github.com/harehimself/langchain-lab/stargazers">
-    <img src="https://img.shields.io/github/stars/harehimself/langchain-lab" alt="Stars"></a>
-  <a href="https://github.com/harehimself/langchain-lab/issues">
-    <img src="https://img.shields.io/github/issues/harehimself/langchain-lab" alt="Issues"></a>
-  <a href="https://github.com/harehimself/langchain-lab/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/harehimself/langchain-lab" alt="MIT License"></a>
-</p>
-
-<br><br>
-
-## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Table of Contents](#table-of-contents-1)
-- [Features](#features)
-- [Benefits](#benefits)
-- [How It Compares](#how-it-compares)
-- [License](#license)
 
 ## Features
 - Comprehensive API support for various language models.
