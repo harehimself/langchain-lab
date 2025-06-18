@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs / Cache
+*.log
+*.db
+*.sqlite3
+.DS_Store
+
+# LangChain
+lc-logs/
